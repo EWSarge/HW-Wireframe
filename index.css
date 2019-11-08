@@ -90,6 +90,8 @@ h1 {
     height: 75px;
     background-color: lightgray;
     margin-left: 20px;
+	color: gray;
+	line-height: 75px;
 }
 
 p {
@@ -97,4 +99,5 @@ p {
     height: 75px;
     background-color: lightgray;
     margin-left: 20px;
+	line-height: 75px;
 }
